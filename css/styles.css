@@ -492,7 +492,7 @@ footer .container {
   padding: 63px 23px;
   background-color: rgba(33, 150, 243, 0.9);
   transform: translateY(100%);
-  transition: translate 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .project-item:hover .project-hover {
   transform: translateY(0);
